@@ -1,0 +1,9 @@
+apt update
+
+apt install git -y
+
+git clone http://github.com/danialtools Comand-
+
+cd Pycompile
+
+python2 compile.py
